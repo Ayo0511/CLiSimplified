@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLISimplified")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7fbcf65a0522d210d93c1bc30351ff1c5036a21b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLISimplified")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLISimplified")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
